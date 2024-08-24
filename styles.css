@@ -1,0 +1,90 @@
+body{
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+h2{
+    font-size: 30px;
+}
+.established{
+    font-style: italic;
+}
+.menu{
+    width: 80%;
+    background-color: burlywood;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+h1, h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1, h2, p{
+    text-align: center;
+}
+.price{
+text-align: right;
+width:25%;
+
+}
+.pizza{
+    text-align:left;
+    width: 75%;
+}
+
+hr{
+    background-color: brown;
+    border-width: 2px;
+    height: 2px;
+    border-color:brown;
+}
+
+.bottom-line{
+    margin-bottom: 5px;
+}
+footer{
+    font-size: 15px;
+}
+
+a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+
+  .address{
+margin-bottom: 5px;
+  }
+
+  img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+
+  }
+  .location{
+    max-width: 40px;
+    max-height: 40px;
+    margin-bottom: 1px;
+  }
+
